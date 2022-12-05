@@ -1,0 +1,33 @@
+.container{
+    width:30%;
+    margin: auto;
+}
+
+h1{
+    text-align: center;
+    
+}
+
+input, label{
+    display: block;
+    padding: 2rem;
+
+}
+
+input{
+    width: 100%;
+    padding: 1rem;
+    
+}
+
+#check{
+    display: block;
+    margin: auto;
+    margin-top: 1.7rem;
+    
+}
+#output{
+    width: 108%;
+    padding-top: 1rem;
+    margin-top: 2rem;
+}
